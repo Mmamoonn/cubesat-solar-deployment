@@ -1,0 +1,23 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arduino build artifacts
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino IDE preferences
+*.pref
+
+# Temp & backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Windows shortcuts
+*.lnk
