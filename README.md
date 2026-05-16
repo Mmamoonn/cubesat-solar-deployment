@@ -4,29 +4,6 @@ A mechatronic project simulating autonomous solar panel deployment on a **CubeSa
 
 ---
 
-## 📌 Project Overview
-
-| Detail | Info |
-|--------|------|
-| University | University of Central Punjab (UCP) |
-| Course | Robotics Design and Creativity (RDC) |
-| Project Type | Final Project |
-| Group Name | **Excalibur** |
-| Session | Spring 2025 |
-| Total Cost | PKR 2,615 |
-
----
-
-## 👥 Group Members
-
-| Name | Registration No. |
-|------|-----------------|
-| Muhammad Mamoon | L1F23BSRI0014 |
-| Ali Ahmar Awan | L1F23BSRI0013 |
-| Asad Ali | L1F23BSRI0024 |
-
----
-
 ## 🌍 Project Concept
 
 CubeSats are small, standardized satellites (10×10×10 cm per unit) used for scientific research, Earth observation, and communication. A critical challenge in CubeSat design is the **autonomous deployment of solar panels** after launch — panels must fold during launch and unfold once in orbit to power the satellite.
@@ -211,8 +188,3 @@ Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 ---
 
-## 🙏 Acknowledgements
-
-- Course: Robotics Design and Creativity — University of Central Punjab
-- Group Name: **Excalibur**
-- Spring 2025
