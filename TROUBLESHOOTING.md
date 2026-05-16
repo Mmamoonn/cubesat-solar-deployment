@@ -231,5 +231,3 @@
 ---
 
 *Troubleshooting Guide — CubeSat Solar Panel Deployment*
-*Group Excalibur: Muhammad Mamoon, Ali Ahmar Awan, Asad Ali*
-*Robotics Design and Creativity — UCP Spring 2025*
